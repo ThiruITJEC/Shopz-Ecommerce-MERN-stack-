@@ -203,37 +203,71 @@ Your contribution will be reviewed by the project maintainers. Be prepared to ad
 
 ##Sample Outputs
 1. LogIn Page
-    Screenshot 2024-11-11 195043(https://github.com/user-attachments/assets/e9af6c3c-b54e-4720-a778-f8af365bc52f
+ 
+    ![Screenshot 2024-11-11 195043](https://github.com/user-attachments/assets/7ed11448-b39b-48d5-8cc5-7bcafa507b7a)
+
 2. User LogIn
+   
    ![Screenshot 2024-11-11 195102](https://github.com/user-attachments/assets/68f9c7b2-a171-4d61-bf1a-ca468c0562d2)
+   
 3.Sucessfully Registered
+
    ![Screenshot 2024-11-11 195432](https://github.com/user-attachments/assets/a577de3b-a6db-45d7-8f23-fe9a9aca13ed)
+   
 4.Adding Products in the cart
+
    ![Screenshot 2024-11-11 195936](https://github.com/user-attachments/assets/25a05c2f-07bd-4357-b0b0-cfaffaccddb2)
 5.Shipping
+
    ![Screenshot 2024-11-11 200308](https://github.com/user-attachments/assets/1b100e00-7984-4714-ae53-e90a299f182c)
+   
 6.Payment
+
    ![Screenshot 2024-11-11 200328](https://github.com/user-attachments/assets/497987e7-f9f2-4e9d-b98c-a39b1c78f669)
+   
 7.Place Order
+
    ![Screenshot 2024-11-11 200345](https://github.com/user-attachments/assets/0ed23b35-9933-4dd8-b151-dec314b5c457)
+   
 8.Payment Waiting
+
    ![Screenshot 2024-11-11 200401](https://github.com/user-attachments/assets/c7fa8ca2-fe3d-4a66-8c1f-8a5003b1ba0b)
+   
 9.Processing Payment
+
    ![Screenshot 2024-11-11 200807](https://github.com/user-attachments/assets/fbcf76bf-992c-4d99-9d8e-b7efaa1d116f)
+   
 10.Progressing Payment
+
    ![Screenshot 2024-11-11 201108](https://github.com/user-attachments/assets/f1f24d8e-e02d-4626-b93e-ab2492338b98)
+   
 11.Payment Sucess
+
    ![Screenshot 2024-11-11 201135](https://github.com/user-attachments/assets/2c83ee36-6511-4328-95e0-91a4a03fdb15)
+   
 12.Activity
+
    ![Screenshot 2024-11-11 201331](https://github.com/user-attachments/assets/dfe1488b-165f-4224-9c01-19ae08c1500e)
+   
 13.Cancelling Payment
+
    ![Screenshot 2024-11-11 200952](https://github.com/user-attachments/assets/2bbfee9f-1e12-422b-8bdc-371a2a3eee40)
+   
 14.Adding Cart
+
    ![Screenshot 2024-11-11 201731](https://github.com/user-attachments/assets/44651e78-3d73-4651-8d26-3d7449a70234)
+   
 15.Admin LogIn
+
    ![Screenshot 2024-11-11 202222](https://github.com/user-attachments/assets/50f50534-3ddd-4d2c-8a6f-6fa3f0fc5736)
+   
 16.Update Password
+
    ![Screenshot 2024-11-11 202327](https://github.com/user-attachments/assets/9f841b44-080b-4ef1-9af7-b5384387b6e3)
+
+
+
+*****THANK YOU*****
 
 
 
