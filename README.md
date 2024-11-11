@@ -1,4 +1,4 @@
-![Screenshot 2024-11-11 195043](https://github.com/user-attachments/assets/e01d12c2-c2f5-4bc2-8f48-64236146ae1a)Welcome to the eCommerce Platform Project built using the MERN (MongoDB, Express.js, React, Node.js) Stack. This project provides a robust and full-featured online shopping platform with various functionalities to enhance the user experience.
+Welcome to the eCommerce Platform Project built using the MERN (MongoDB, Express.js, React, Node.js) Stack. This project provides a robust and full-featured online shopping platform with various functionalities to enhance the user experience.
 
 Live App Demo : https://mern-shop-abxs.onrender.com/
 
