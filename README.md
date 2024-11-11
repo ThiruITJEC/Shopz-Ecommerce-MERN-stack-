@@ -202,7 +202,8 @@ Your contribution will be reviewed by the project maintainers. Be prepared to ad
 
 ##Sample Outputs
 1. LogIn Page
-    ![Alt Image]()
+    ![Alt Image](![Screenshot 2024-11-11 195043](https://github.com/user-attachments/assets/e9af6c3c-b54e-4720-a778-f8af365bc52f)
+)
    
    
 
